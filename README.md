@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm **Kishor** — an **AI Engineer** who loves building weird, experimental AI systems.  
+I work across deep learning and NLP.
 
-<!--
-**Kishor1536/Kishor1536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Currently working on
+- Fine-tuning & custom tokenizers  
+- Character-level BERT-style models + RAG  
+- Research paper on **Large Concept Models (LCM)**  
+- AI-powered healthcare tools  
+- Experiments with model optimization & deployment
 
-Here are some ideas to get you started:
+### 🧰 I use :
+**PyTorch** · **HuggingFace** · **LangChain** · **LlamaIndex**  
+**NumPy** · **pandas** · **scikit-learn**  
+**FastAPI** · **Docker** · **Git/GitHub**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact
+**Email:** kishor20006@gmail.com  
+
